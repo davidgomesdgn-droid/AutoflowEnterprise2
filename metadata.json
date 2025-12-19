@@ -1,0 +1,8 @@
+{
+  "name": "AutoFlow Enterprise - SAP Smart Docs AI",
+  "description": "Uma plataforma avançada para consultores SAP gerarem especificações funcionais, técnicas e propostas automáticas seguindo padrões internacionais de consultoria.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
